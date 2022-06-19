@@ -4,7 +4,7 @@ I am the-tunwebdev, currently studing  in high school . I am a tech enthusiast. 
 
 
 [![Gmail Badge](https://img.shields.io/badge/-the.tunwebdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:the-tunwebdev@gmail.com)](mailto:the-tunwebdev@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://portfolio-5a58a.firebaseapp.com/)
 
 [![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=the-tunwebdev&theme=xcode)](https://git.io/the-tunwebdev)
 
