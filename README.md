@@ -1,6 +1,6 @@
 ## Hi, I am the-tunwebdev! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am the-tunwebdev, currently studing  in high school . I am a tech enthusiast. Find out more about me & feel free to connect with me here:
+I am the-tunwebdev, currently studying  in high school . I am a tech enthusiast. Find out more about me & feel free to connect with me here:
 
 
 [![Gmail Badge](https://img.shields.io/badge/-the.tunwebdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:the-tunwebdev@gmail.com)](mailto:the-tunwebdev@gmail.com)
